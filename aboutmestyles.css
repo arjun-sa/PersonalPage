@@ -1,0 +1,41 @@
+
+body{
+  font-size: 20px;
+  color: white;
+  background-image: url("black.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  background-size: cover;
+  margin: 0;
+}
+p{
+  text-align: center;
+}
+h2{
+  text-decoration: none;
+}
+.links{
+text-decoration: none;
+color: rgb(100, 100, 100);
+text-align: center;
+display: grid;
+border: 1px solid rgb(60, 10, 95);
+height: 50px;
+}
+
+#navbar{
+        list-style: none;
+        position: relative;
+        float: left;
+        width:200px;
+        height: 100%;
+        border: 1px solid rgb(60, 20, 0);
+        margin: 0px;
+        padding: 0px;
+
+    }
+.v{
+  width: 700px;
+  height: 600px;
+}
